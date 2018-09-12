@@ -1,4 +1,4 @@
-﻿<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.sobangdcmart.hancoma" version="1.0.5">
+﻿<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.sobangdcmart.hancoma" version="1.0.6">
   <name>소방DC마트.com</name>
   <description>소방DC마트</description>
   <author href="http://sobangdcmart.cafe24.com" email="ch7@daum.net">김대경</author>
